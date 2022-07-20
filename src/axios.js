@@ -2,7 +2,7 @@ import axios from "axios";
 
 //instance
 const instance = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://memes-project.herokuapp.com/",
 });
 
 export default instance;
