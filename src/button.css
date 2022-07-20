@@ -1,0 +1,21 @@
+.button_container{
+   position: fixed;
+   bottom : 6vh;
+   display : flex;
+   width : 100%;;
+   justify-content: space-evenly;
+   margin : 20
+}
+
+
+.fav_icon {
+    color: rgb(245, 31, 31) !important;
+}
+.next_icon {
+    color: rgb(36, 185, 22) !important;
+
+}
+.pre_icon {
+    color: rgb(153, 134, 134) !important;
+
+}
